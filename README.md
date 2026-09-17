@@ -36,9 +36,6 @@ The implementation created a basic measurement framework for understanding websi
 
 This allows the business to move from simply having website traffic to measuring meaningful user interactions.
 
-## Documentation
-
-[View the full GTM Implementation Case Study](./KH-Construction-GA4-GTM-Case-Study.pdf)
 
 ## Project Website
 
